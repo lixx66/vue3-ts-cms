@@ -1,3 +1,5 @@
 # Ignore artifacts:
 build
 coverage
+auto-imports.d.ts
+components.d.ts
